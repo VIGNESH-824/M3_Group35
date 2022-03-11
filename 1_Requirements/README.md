@@ -82,7 +82,7 @@ SWOT Analysis :
 
 Who:
 ======
-The project can be used almost by all people which wants to buy new car having such features as well as who wants to upgrade over traditional methods.vAt the end,user satisfaction and earier use of technology is the goal of this project.
+The project can be used almost by all people which wants to buy new car having such features as well as who wants to upgrade over traditional methods.At the end,user satisfaction and earier use of technology is the goal of this project.
 
 What:
 ======
