@@ -5,4 +5,4 @@ created by conditioning the delay to account for the debounce of the switches an
 
 |   Code Quality Score  |   Code Grade  |
 |-----------------------|---------------|
-|![ Code Quality Score](https://api.codiga.io/project/31876/score/svg)|![Code Grade](https://api.codiga.io/project/31876/status/svg)|
+|![Code Quality Score](https://api.codiga.io/project/31876/score/svg)|![Code Grade](https://api.codiga.io/project/31876/status/svg)|
