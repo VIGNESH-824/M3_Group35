@@ -1,7 +1,4 @@
 # RKE (Remote Keyless Entry)
- 
-![Codiga code quality Scan](https://app.codiga.io/public/user/github/yogeshsurve1410)]
-
-[![Codacy Security Scan](https://github.com/yogeshsurve1410/M3_35/actions/workflows/codacy.yml/badge.svg)](https://github.com/yogeshsurve1410/M3_35/actions/workflows/codacy.yml)
-
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/854c9647a0834b09a8fdf9e7a55f037c)](https://www.codacy.com/gh/yogeshsurve1410/M3_35/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yogeshsurve1410/M3_35&amp;utm_campaign=Badge_Grade)
+*This Repository is a shared contribution by **Vignesh Bhat and Yogesh Surve** all the files and codes have been executed and tested by us.
+The code consists of multiple functions to detect the different button presses as per the stipulated documents. Our Remote Keyless Entry code has been
+created by conditioning the delay to account for the debounce of the switches and the corresponding outputs*
